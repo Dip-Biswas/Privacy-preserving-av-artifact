@@ -1,6 +1,10 @@
 MIT License
 
-Copyright (c) 2026 Shuvodip Biswas
+Copyright (c) 2026
+
+Crawl and detector modules include software originally published under the MIT
+License by Shreyas Minocha as part of the "Papers, Please" artifact. See
+NOTICE.md.
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
