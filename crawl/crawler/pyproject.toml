@@ -1,0 +1,6 @@
+[project]
+name = "scraper"
+version = "0.1.0"
+description = "webpage crawl"
+requires-python = ">=3.13"
+dependencies = ["pyvirtualdisplay>=3.0", "selenium>=4.32.0"]
