@@ -66,7 +66,7 @@ docs/              Setup, evaluation catalog, and reviewer protocol guides
 | `au` | Australia | Online Safety Act / industry codes | `australia-southeast1-a` |
 | `tx` | Texas (US) | HB 1181 | `us-south1-a` |
 | `fr` | France | SREN / Arcom | `europe-west9-a` |
-| `id` | Indonesia | PP TUNAS | regional ID / nearby |
+| `id` | Indonesia | PP TUNAS | `asia-southeast2-a` |
 | `ca` | Canada | No federal mandate (control) | `northamerica-northeast1-a` |
 
 ## Responsible use
