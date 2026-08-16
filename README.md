@@ -27,7 +27,7 @@ cd crawl/crawler
 uv sync
 mkdir -p ../../pages
 printf 'deadbeefdeadbeefdeadbeefdeadbeef\n' > /tmp/seed.txt
-uv run python main.py ../../lists/example-domains.csv \
+uv run python main.py ../lists/example-domains.csv \
   -n 1 -w 0 \
   --seed-file /tmp/seed.txt \
   --container-output-dir ../../pages \
