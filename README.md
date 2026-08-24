@@ -17,7 +17,7 @@ This repository lets you **replicate a prevalence crawl**: fetch homepages from 
 2. **Adversarial evaluation** — nine vectors against face-based age-verification services, with reviewer protocol in [`docs/guides/`](docs/guides/README.md). No PoCs.
 3. **Privacy / network checklist** — what to record and what questions to ask of HAR/WebSocket traces.
 
-## Quick start (local smoke test)
+## Quick start 
 
 You need Python 3.13+, [uv](https://docs.astral.sh/uv/), Google Chrome, and (on Linux) Xvfb.
 
