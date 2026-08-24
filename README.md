@@ -19,7 +19,7 @@ This repository lets you **replicate a prevalence crawl**: fetch homepages from 
 
 ## Quick start 
 
-You need Python 3.13+, [uv](https://docs.astral.sh/uv/), Google Chrome, and (on Linux) Xvfb.
+Use this to refer to an initial, lightweight check. You need Python 3.13+, [uv](https://docs.astral.sh/uv/), Google Chrome, and (on Linux) Xvfb.
 
 ```bash
 # 1. Crawler
